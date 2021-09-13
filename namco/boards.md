@@ -395,7 +395,7 @@ BNA1(LITE): BNA1LT-00-64G-2016W
          Sword Art Online Arcade
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
-  LITE - Taiko no Tatsujin: Rainbow (S12)
+  LITE - Taiko no Tatsujin: Nijiiro (S12)
      ? - Poker Stadium
 ```
 
